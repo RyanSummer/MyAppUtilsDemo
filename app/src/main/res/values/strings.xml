@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAppUtilsDemo</string>
+
+    <string name="main_handler">主线程立即显示</string>
+    <string name="main_handler_delay">主线程延时1秒显示</string>
+    <string name="work_handler">工作线程立即显示</string>
+    <string name="work_handler_delay">工作线程延时1秒显示</string>
+</resources>
